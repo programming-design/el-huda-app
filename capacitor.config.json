@@ -1,0 +1,11 @@
+{
+  "appId": "online.elhuda.app",
+  "appName": "الهُدى",
+  "webDir": "www",
+  "backgroundColor": "#080f0c",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 0, "backgroundColor": "#080f0c" },
+    "StatusBar": { "style": "DARK", "backgroundColor": "#080f0c" }
+  }
+}
